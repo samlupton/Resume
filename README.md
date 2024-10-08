@@ -1,4 +1,3 @@
 # Resume
 Personal Resume
-
-<img src="Samuel_Lupton_Resume_Electronic_V1.pdf" width=600><br>
+[Samuel_Lupton_Resume_Electronic_V1.pdf](https://github.com/samlupton/Resume/blob/main/Samuel_Lupton_Resume_Electronic_V1.pdf)
